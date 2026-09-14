@@ -1,4 +1,4 @@
-# Image Fetcher
+# Image Grabber
 
 A simple desktop app, built with `customtkinter`, that lets you paste an image URL, preview the image, and save it locally. Packaged to run standalone via PyInstaller.
 
