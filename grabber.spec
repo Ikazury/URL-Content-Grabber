@@ -5,7 +5,7 @@ a = Analysis(
     ['grabber.py'],
     pathex=[],
     binaries=[],
-    datas=[('sil.ico', '.')],
+    datas=[],
     hiddenimports=[],
     hookspath=[],
     hooksconfig={},
@@ -35,5 +35,4 @@ exe = EXE(
     target_arch=None,
     codesign_identity=None,
     entitlements_file=None,
-    icon=['sil.ico'],
 )
